@@ -1,7 +1,7 @@
 # ĐỒ ÁN REACTJS 
 ## There is also a branch for mysql project at school
 
-Đồ án ReactJS là một trong 2 đồ án lớn tốt nghiệp khóa học Cybersoft đối với dự án ReactJS. Nó là đồ án về việc Đặt vé xem phim. Nó cung cấp các chức năng và giao diện **cơ bản** của một một dự án thông thường như:
+Đồ án ReactJS là một trong 2 đồ án lớn tốt nghiệp khóa học đối với dự án ReactJS. Nó là đồ án về việc Đặt vé xem phim. Nó cung cấp các chức năng và giao diện **cơ bản** của một một dự án thông thường như:
 ## Client-side (Trang đặt vé)
 ### Components:
 + Carousel
